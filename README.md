@@ -36,26 +36,6 @@ goals_2025:
 <br clear="right"/>
 
 
-🛠️ Skills & Tools
-<div align="center"> <!-- Shields badges for skills -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
----
 
 ## 📧 Contact Me
 
@@ -66,16 +46,38 @@ I'm always open to collaboration, questions, or just a friendly chat! Feel free 
 [![Email](https://img.shields.io/badge/Email-marwanedyes@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanedyes@gmail.com)  
 [![Discord](https://img.shields.io/badge/Discord-hijri_hints-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hijri_hints)  
 [![Instagram](https://img.shields.io/badge/Instagram-@m._a._r._w._a._n._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m._a._r._w._a._n._)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MarwanAhmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-@MarwanAhmed-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-
+<!-- Add LinkedIn or Twitter if you want -->
 </div>
 
-📊 GitHub Stats
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=Marwan90679&show_icons=true&theme=radical&count_private=true&hide_title=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan90679&layout=compact&theme=radical&hide_title=true" /> </p>
-📈 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marwan90679&theme=radical" alt="GitHub streak stats" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/Marwan90679/Marwan90679/main/gradient-bg.svg" alt="Gradient Background" width="100%" style="margin-top: -40px;" /> </p>
+---
+
+<!-- Now keep your GitHub Stats and charts like this -->
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Marwan90679&show_icons=true&theme=radical&count_private=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan90679&layout=compact&theme=radical&hide_title=true" />
+</p>
+
+---
+
+### 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marwan90679&theme=radical" alt="GitHub streak stats" />
+</p>
+
+---
+
+<!-- Your existing footer with gradient background -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marwan90679/Marwan90679/main/gradient-bg.svg" alt="Gradient Background" width="100%" style="margin-top: -40px;"/>
+</p
+
+
+
 
 
 
