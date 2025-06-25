@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marwan%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <!-- Animated typing with multiple lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff99&center=true&vCenter=true&multiline=true&width=600&height=120&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=03A6A1&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Web+Developer+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
