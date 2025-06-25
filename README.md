@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff99&center=true&vCenter=true&width=280&lines=MERN+Stack+Developer" alt="MERN Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff99&center=true&vCenter=true&width=300&lines=MERN+Stack+Developer" alt="MERN Stack Developer" />
 </p>
 
 ---
@@ -20,7 +20,10 @@
 
 ---
 
-> ⚠️ *Note:* I contributed to private classroom repos before, which I have now made public. So, GitHub stats and contributions might be limited or not fully representative.
+> ⚠️ **Heads-Up for Visitors**  
+> A portion of my earlier work was contributed to private classroom repositories, which are now public.  
+> Because of this, GitHub stats might not fully reflect my actual activity or experience.  
+> Feel free to explore my recent public projects — they’re a better reflection of what I can do today!
 
 ---
 
