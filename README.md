@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Marwan90679/Marwan90679/main/gradient-bg.svg" alt="Gradient Background" width="100%" style="margin-bottom: -40px;"/>
 </p>
 
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-weight: bold; color: #00ff99;">
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-weight: extrabold; color: #00ff94;">
   Marwan Ahmed
 </h1>
 
