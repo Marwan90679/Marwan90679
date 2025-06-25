@@ -28,6 +28,7 @@ fields_of_interest:
   - Open Source Contributions
 currently_learning:
   - Next.js
+...
 goals_2025:
   - Build impactful full-stack apps
   - Contribute to open source projects
@@ -35,23 +36,20 @@ goals_2025:
   - Share knowledge with developer community
 <br clear="right"/>
 
-
-
-## 📧 Contact Me
-
-I'm always open to collaboration, questions, or just a friendly chat! Feel free to reach out via any of the platforms below:
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-marwanedyes@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanedyes@gmail.com)  
-[![Discord](https://img.shields.io/badge/Discord-hijri_hints-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hijri_hints)  
-[![Instagram](https://img.shields.io/badge/Instagram-@m._a._r._w._a._n._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m._a._r._w._a._n._)  
-<!-- Add LinkedIn or Twitter if you want -->
-</div>
-
 ---
 
-<!-- Now keep your GitHub Stats and charts like this -->
+### 🛠️ Skills & Tools
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
 
@@ -70,11 +68,16 @@ I'm always open to collaboration, questions, or just a friendly chat! Feel free 
 
 ---
 
-<!-- Your existing footer with gradient background -->
+Thanks for visiting! 🚀  
+Feel free to connect with me anywhere above.
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Marwan90679/Marwan90679/main/gradient-bg.svg" alt="Gradient Background" width="100%" style="margin-top: -40px;"/>
-</p
+</p>
+
+
 
 
 
