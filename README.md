@@ -54,7 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marwan90679&theme=radical" alt="GitHub streak stats" />
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marwan90679&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" /> 
 </div>
