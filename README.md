@@ -1,40 +1,26 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marwan90679/Marwan90679/main/gradient-bg.svg" alt="Gradient Background" width="100%" style="margin-bottom: -40px;"/>
+</p>
 
-<!-- Header with animated background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marwan%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-weight: bold; color: #00ff99;">
+  Marwan Ahmed
+</h1>
 
-<!-- Animated typing with multiple lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=03A6A1&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Web+Developer+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff99&center=true&vCenter=true&width=280&lines=MERN+Stack+Developer" alt="MERN Stack Developer" />
+</p>
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+---
 
-</div>
+### 👋 About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+- 📧 Email: <a href="mailto:marwanedyes@gmail.com">marwanedyes@gmail.com</a>  
+- 💬 Discord: <a href="https://discord.com/users/hijri_hints" target="_blank">hijri_hints</a>  
+- 📸 Instagram: <a href="https://instagram.com/m._a._r._w._a._n_" target="_blank">@m._a._r._w._a._n_</a>  
 
-```yaml
-name: Marwan Ahmed
-email: marwanedyes@gmail.com
-discord: hijri_hints
-instagram: "@m._a._r._w._a._n._"
-located_in: Dhaka, Bangladesh
-current_work: MERN Stack Developer
-note: "Previously contributed to private classroom repos, now public — so stats may be limited."
-fields_of_interest:
-  - Web Development
-  - MERN Stack
-  - Frontend & Backend Development
-  - Open Source Contributions
-currently_learning:
-  - Next.js
-...
-goals_2025:
-  - Build impactful full-stack apps
-  - Contribute to open source projects
-  - Learn cloud technologies
-  - Share knowledge with developer community
-<br clear="right"/>
+---
+
+> ⚠️ *Note:* I contributed to private classroom repos before, which I have now made public. So, GitHub stats and contributions might be limited or not fully representative.
 
 ---
 
@@ -76,18 +62,3 @@ Feel free to connect with me anywhere above.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Marwan90679/Marwan90679/main/gradient-bg.svg" alt="Gradient Background" width="100%" style="margin-top: -40px;"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
