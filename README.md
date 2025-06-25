@@ -1,68 +1,64 @@
-````md
-<h1 align="center">Md Marwan</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marwan90679/Marwan90679/main/gradient-bg.svg" alt="Gradient Background" width="100%" style="margin-bottom: -40px;"/>
+</p>
 
-<h3 align="center">Full-Stack Web Developer 🚀<br/>MERN Stack Developer 💻<br/>From Sylhet, Bangladesh</h3>
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-weight: bold; color: #00ff99;">
+  Marwan Ahmed
+</h1>
 
----
-
-## 📖 About Me
-```yaml
-name: Md Marwan
-located_in: Sylhet, Bangladesh
-current_work: MERN Stack Developer
-email: marwanedyes@gmail.com
-education:
-  - Learning Full Stack Web Development at Programming Hero
-fields_of_interests:
-  - Web Development
-  - MERN Stack Development
-  - Front-End Development
-  - Back-End Development
-  - Open Source
-currently_learning:
-  - MongoDB & Backend Deployment
-2025_goals:
-  - Build Real-World Full-Stack Apps
-  - Contribute to Open Source
-  - Learn CI/CD and DevOps Basics
-  - Share What I Learn Publicly
-````
-
-> ⚠️ **Note:** Most of my repositories were originally created as part of a private classroom environment. Contributions may appear lower, but I’ve now added those repos publicly to showcase my work.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff99&center=true&vCenter=true&width=280&lines=MERN+Stack+Developer" alt="MERN Stack Developer" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👋 About Me
 
-### 🎨 Frontend Development
-
-### ⚙️ Backend Development
-
-### 🧰 Tools & Platforms
-
-### 🌐 Languages
+- 📧 Email: <a href="mailto:marwanedyes@gmail.com">marwanedyes@gmail.com</a>  
+- 💬 Discord: <a href="https://discord.com/users/hijri_hints" target="_blank">hijri_hints</a>  
+- 📸 Instagram: <a href="https://instagram.com/m._a._r._w._a._n_" target="_blank">@m._a._r._w._a._n_</a>  
 
 ---
 
-## 📈 GitHub Analytics
-
-### GitHub Trophies
-
-### GitHub Stats
-
-### GitHub Streak
-
-### Contribution Graph
+> ⚠️ *Note:* I contributed to private classroom repos before, which I have now made public. So, GitHub stats and contributions might be limited or not fully representative.
 
 ---
 
-## 🌐 Socials
+### 🛠️ Skills & Tools
 
-\\
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🤖 Made with Lobe by Marwan
+### 📊 GitHub Stats
 
-```
-```
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Marwan90679&show_icons=true&theme=radical&count_private=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan90679&layout=compact&theme=radical&hide_title=true" />
+</p>
+
+---
+
+### 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marwan90679&theme=radical" alt="GitHub streak stats" />
+</p>
+
+---
+
+Thanks for visiting! 🚀  
+Feel free to connect with me anywhere above.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marwan90679/Marwan90679/main/gradient-bg.svg" alt="Gradient Background" width="100%" style="margin-top: -40px;"/>
+</p>
