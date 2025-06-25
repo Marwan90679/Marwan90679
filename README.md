@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff99&center=true&vCenter=true&width=280&lines=MERN+Stack+Developer" alt="MERN Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff99&center=true&vCenter=true&width=300&lines=MERN+Stack+Developer" alt="MERN Stack Developer" />
 </p>
 
 ---
